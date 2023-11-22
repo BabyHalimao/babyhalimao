@@ -3,3 +3,5 @@
 ### Hi there 👋
 
 I'm a web3 developer
+
+I'm learning web3 projects now, and wish I can do some helpful for them
