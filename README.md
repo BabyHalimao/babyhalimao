@@ -1,3 +1,1 @@
-<a href="https://passer-by.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=babyhalimao&show_icons=true&count_private=false&theme=vue-dark" /></a>
-
-### Hi there 👋
+![Bing Image](https://api.isoyu.com/bing_images.php)
